@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Mark Huber](https://photos.google.com/photo/AF1QipOYF1cfv64btt0QfA5IbpDkDtJwLJFO5aIOmsCa)
