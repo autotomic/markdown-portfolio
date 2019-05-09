@@ -1,0 +1,10 @@
+Programming languages:
+* **C**
+* **Java**
+* **Basic**
+* **R**
+* **C++**
+* **Basic**
+* **Fortran**
+* **Logo**
+* **Lisp**
